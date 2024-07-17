@@ -1,1 +1,1 @@
-# 100-Days-of-Coding
+This is the reporsitory for challenge 100 days of coding.
